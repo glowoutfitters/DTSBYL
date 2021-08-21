@@ -17,6 +17,9 @@ html, body {
 body {
   display: grid;
   place-items: center;
+  
+  background-image: linear-gradient(to top, #2bb914, #00c958, #00d888, #00e6b3, #11f2d8);
+  
 }
 
 .header {
