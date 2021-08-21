@@ -20,11 +20,14 @@ body {
 }
 
 .header {
-  background-color: #35e76f;
+  
+  background-image: linear-gradient(to top, #d50cb8, #b939cc, #9750db, #6e60e4, #326be8);
+  
+
   padding: 30px;
   text-align: center;
   font-size: 35px;  
-  color: #df5ec8;
+  color: #000000;
 
 }
 
