@@ -19,9 +19,11 @@ body {
   place-items: center;
 }
 
-header {
-  background-color:green;
-  max-width:1600px;
+.header {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;  
   color:blue;
   
 }
