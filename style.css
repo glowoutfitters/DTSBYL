@@ -19,6 +19,12 @@ body {
   place-items: center;
 }
 
+header {
+  max-width:1600px;
+  color:blue;
+  
+}
+
 .page-content {
   display: grid;
   grid-gap: 1rem;
